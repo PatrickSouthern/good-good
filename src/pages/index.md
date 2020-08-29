@@ -3,7 +3,7 @@ templateKey: index-page
 title: THIS FUCKING COFFEE
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Is so good
 mainpitch:
   title: Why Kaldi
   description: >
